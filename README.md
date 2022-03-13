@@ -1,2 +1,2 @@
 # javafx-calculator
-Simple JavaFX cacluator
+Simple JavaFX calculator
